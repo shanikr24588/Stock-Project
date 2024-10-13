@@ -28,4 +28,4 @@ A stock market application built with Kotlin that allows users to view and track
 1. Clone the repository:
 
    ```bash
-   git clone 
+   git clone https://github.com/shanikr24588/Stock-Project/tree/master
